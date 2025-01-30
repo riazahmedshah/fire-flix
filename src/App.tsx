@@ -1,11 +1,10 @@
-
-import './App.css'
+import './index.css'
 
 const App = () => {
 
   return (
     <>
-      <h1>Hello, World</h1>
+      <h1 className='text-3xl font-bold'>Hello, World</h1>
     </>
   )
 }
